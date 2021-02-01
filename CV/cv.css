@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(207, 194, 165)
+}
+.title-container{
+    text-align: center;
+    font-size: 18px
+}
+.info-container{
+    display: flex;  
+    align-items: center;
+}
+.image-container{
+    margin-left: 50px;
+}
+.info{margin-left: 100px;
+
+}
+h2 {color:blue; font-size: 25px; text-align: center;}
+li{font-size: 15px;}
+h3{
+    font-size: 17px; margin: 10px;
+}
+
+.socialcontainer {
+    background-color: rgb(68, 122, 221);
+    padding: 10px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.boton{margin: 10px;}
+  
